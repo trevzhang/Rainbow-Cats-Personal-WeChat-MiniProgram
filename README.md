@@ -24,7 +24,8 @@ module.exports = {
 - 然后创建体验版小程序 分享到女朋友手机上 具体方法要先登录微信公众平台官网
 - 在两个手机上运行小程序 分别在两个手机上的小程序里新建任务 然后回到missionlist数据库集合去找自己和女朋友的_openid变量
 - 把这两个openid拷贝到UserList数据集合里刚刚创建的的_openid变量中 同时也要把他们拷到app.js里的kirbyOpenId和deeOpenId的值里（kirbyOpenId是星之卡比，deeOpenId是瓦豆鲁迪）
-- 然后再试试看是不是成功了！不行就问我。（右滑任务或商品可以删除或者星标哦）
+- 然后再试试看是不是成功了！（右滑任务或商品可以删除或者星标哦）
+- 别忘了最后点击右上角上传，然后在微信公众平台网站上设置小程序为体验版，不用去发布去审核，起个好听的名字，定个LOGO。
 
 ## 效果
 ![alt text](https://github.com/UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram/blob/main/Pictures/main.jpg)
